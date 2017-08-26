@@ -1,0 +1,11 @@
+{
+  "name": "creative-cms",
+  "author": "Cosmin Cartas",
+  "version": "0.0.1",
+  "description": "CMS for creating interactive Websites",
+  "license": "MIT",
+  "repository": "",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
